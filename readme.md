@@ -2,7 +2,7 @@
 
 RAG LLM demo with CAMS Banking Instructions PDF, for presentation 3.
 
-Link to PDF on ISONE website: 
+Link to PDF on ISONE website: https://www.iso-ne.com/static-assets/documents/2016/06/cams_banking_instructions.pdf
 
 ## Requirements
 
